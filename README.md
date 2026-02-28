@@ -1,10 +1,10 @@
 <h1 align="center">🚀 Hello World, I'm Ojaswa!</h1>
-<h3 align="center">Python & Java Developer | Open Source Contributor @ OWASP-BLT | India</h3>
+<h3 align="center">Python & Java Developer | Open Source Contributor | India</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔹 Actively contributing to **OWASP-BLT** 
+- 🔹 Actively contributing to **Open Source** 
 - 🔹 Building with **Python**, **Java**, and **Cloudflare Workers**
 - 🔹 Currently mastering **Data Structures & Algorithms**
 - 🔹 Interested in **Cloud Computing**, **API design**, and **open source security tools**
