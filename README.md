@@ -1,12 +1,13 @@
-<h1 align="center">🚀 Hello World, I’m Ojaswa ! </h1>
-<h3 align="center">Java Developer | Cloud Computing Enthusiast | India</h3>
+<h1 align="center">🚀 Hello World, I'm Ojaswa!</h1>
+<h3 align="center">Python & Java Developer | Open Source Contributor @ OWASP-BLT | India</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔹 Passionate about **Cloud Computing** & **Java Development**
-- 🔹 Currently mastering **Data Structures & Algorithms (DSA)**
-- 🔹 Always exploring new tech and building projects 🚀
+- 🔹 Actively contributing to **OWASP-BLT** 
+- 🔹 Building with **Python**, **Java**, and **Cloudflare Workers**
+- 🔹 Currently mastering **Data Structures & Algorithms**
+- 🔹 Interested in **Cloud Computing**, **API design**, and **open source security tools**
 
 ---
 
@@ -31,32 +32,25 @@
 </p>
 
 ---
+
 ### 📈 GitHub Stats
 <p align="center">
-  <!-- Total GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ojaswa072&show_icons=true&count_private=true&theme=dark" alt="Ojaswa's GitHub Stats" />
+  <img src="https://github-readme-stats-ten-lovat-19.vercel.app/api/top-langs/?username=ojaswa072&langs_count=5&layout=compact&theme=dark&hide_border=true" alt="Ojaswa's Top Languages" />
 </p>
-
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswa072&langs_count=5&layout=compact&theme=dark" alt="Ojaswa's Top Languages" />
+  <img src="https://github-readme-stats-ten-lovat-19.vercel.app/api?username=ojaswa072&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Ojaswa's GitHub Stats" />
 </p>
-
 <p align="center">
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswa072&theme=dark" alt="Ojaswa's GitHub Streak" />
 </p>
 
 ---
 
-### 📊 Leetcode Stats
+### 📊 LeetCode Stats
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Ojaswa072?theme=dark&font=Open%20Sans&ext=heatmap" width="380">
+  <img src="https://leetcard.jacoblin.cool/Ojaswa072?theme=dark&font=Open%20Sans&ext=heatmap" width="380">
 </p>
 
-<!---
-![](https://leetcard.jacoblin.cool/Ojaswa072?ext=contest&width=600&border=0&radius=20&height=100)
--->
 ---
 
 ### 📫 Connect with Me
