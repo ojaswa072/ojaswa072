@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Ojaswa&fontColor=ffffff&fontSize=34&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=130&section=header&text=Ojaswa&fontColor=ffffff&fontSize=40&fontAlignY=40" width="100%" />
 
 <a href="https://github.com/ojaswa072">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1800&color=58A6FF&center=true&vCenter=true&width=640&lines=Backend+Engineer+%C2%B7+AI+Security+%C2%B7+Python;Ex-Software+Engineering+Intern+%40+OWASP+BLT;Building+AgentGuard%3A+reliability+evals+for+LLM+agents" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1800&color=58A6FF&center=true&vCenter=true&width=640&lines=Backend+Engineer+%C2%B7+AI+Security+%C2%B7+Python;Ex-Software+Engineering+Intern+%40+OWASP+BLT;Building+AgentGuard%3A+reliability+evals+for+LLM+agents" alt="Typing intro" />
 </a>
 
 <p>
@@ -16,41 +16,41 @@
 
 ---
 
-<sub>I build backend systems that make security work faster and more reliable: serverless services, API infrastructure, and AI tooling that has to be trustworthy, not just impressive in a demo.</sub>
+I build backend systems that make security work faster and more reliable: serverless services, API infrastructure, and AI tooling that has to be trustworthy, not just impressive in a demo.
 
-<sub>B.Tech CSE at AKTU (graduating 2027) · Google Cloud Certified in Cybersecurity and Cloud Computing Foundations.</sub>
+B.Tech CSE at AKTU (graduating 2027) · Google Cloud Certified in Cybersecurity and Cloud Computing Foundations.
 
-##### 🔨 Currently building
+### 🔨 Currently building
 
-###### [AgentGuard](https://github.com/ojaswa072/AgentGuard) — reliability & evaluation for tool-using LLM agents
+#### [AgentGuard](https://github.com/ojaswa072/AgentGuard) — reliability & evaluation for tool-using LLM agents
 
-<sub>Most agent demos answer *"did it work once?"* AgentGuard asks the harder question:</sub>
+Most agent demos answer *"did it work once?"* AgentGuard asks the harder question:
 
-> <sub>**How reliable is a tool-using LLM agent when the same task is repeated, and when controlled failures are injected?**</sub>
+> **How reliable is a tool-using LLM agent when the same task is repeated, and when controlled failures are injected?**
 
-<sub>• A small, fully-owned evaluation system that tests one reference agent, in one controlled domain, end to end.</sub><br>
-<sub>• Every metric traces back to a real stored run.</sub><br>
-<sub>• Every LLM-judge score ships with a human-agreement calibration rate, never presented as ground truth.</sub><br>
-<sub>• Not a Langfuse clone, not a DeepEval replacement, not a multi-agent framework.</sub>
+- A small, fully-owned evaluation system that tests one reference agent, in one controlled domain, end to end.
+- Every metric traces back to a real stored run.
+- Every LLM-judge score ships with a human-agreement calibration rate, never presented as ground truth.
+- Not a Langfuse clone, not a DeepEval replacement, not a multi-agent framework.
 
-##### 🚀 Featured project
+### 🚀 Featured project
 
-###### [BLT-Toasty](https://toasty.owaspblt.org/) — AI triage & responsible-disclosure assistant for OWASP BLT
+#### [BLT-Toasty](https://toasty.owaspblt.org/) — AI triage & responsible-disclosure assistant for OWASP BLT
 
-<sub>Built for open-source security teams. Redacts PII, summarizes reports, and flags duplicates (~70% of submissions) in under 2 seconds, cutting manual review from 10–15 minutes to near-instant.</sub>
+Built for open-source security teams. Redacts PII, summarizes reports, and flags duplicates (~70% of submissions) in under 2 seconds, cutting manual review from 10–15 minutes to near-instant.
 
-<sub>`Cloudflare Workers` · `Durable Objects` · `D1` · `Vectorize` · `GitHub Actions`</sub>
+`Cloudflare Workers` · `Durable Objects` · `D1` · `Vectorize` · `GitHub Actions`
 
-<sub>[Live site](https://toasty.owaspblt.org/) · [Source](https://git.owaspblt.org/BLT/BLT-Toasty)</sub>
+[Live site](https://toasty.owaspblt.org/) · [Source](https://git.owaspblt.org/BLT/BLT-Toasty)
 
-##### 🧭 Experience
+### 🧭 Experience
 
-| <sub>When</sub> | <sub>Role</sub> | <sub>Impact</sub> |
+| When | Role | Impact |
 |---|---|---|
-| <sub>Jun – Aug 2026</sub> | <sub>**Ex-Software Engineering Intern**, OWASP BLT</sub> | <sub>Architected BLT-Toasty's serverless backend on Cloudflare Workers, cutting triage time by 30% with zero PII leakage.</sub> |
-| <sub>Feb 2026 – Present</sub> | <sub>**Open-source Contributor**, OWASP BLT</sub> | <sub>25+ merged PRs refactoring Python microservices and hardening API security.</sub> |
+| Jun – Aug 2026 | **Ex-Software Engineering Intern**, OWASP BLT | Architected BLT-Toasty's serverless backend on Cloudflare Workers, cutting triage time by 30% with zero PII leakage. |
+| Feb 2026 – Present | **Open-source Contributor**, OWASP BLT | 25+ merged PRs refactoring Python microservices and hardening API security. |
 
-##### 🧰 Stack
+### 🧰 Stack
 
 <div align="center">
 
@@ -68,26 +68,27 @@
 
 </div>
 
-<sub>**Also:** Unit testing · CI/CD automation · Data structures & algorithms · Cloud & API security fundamentals</sub>
+**Also:** Unit testing · CI/CD automation · Data structures & algorithms · Cloud & API security fundamentals
 
-##### 📈 Activity
+### 📈 Activity
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ojaswa072&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswa072&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ojaswa072&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswa072&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswa072&theme=github-dark-blue&hide_border=true&background=0d1117" height="130" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswa072&theme=github-dark-blue&hide_border=true&background=0d1117" height="150" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojaswa072&theme=github-compact&hide_border=true&bg_color=0d1117&area=true&height=250" width="100%" />
 
-<img src="https://leetcard.jacoblin.cool/Ojaswa072?theme=dark&font=Open%20Sans&ext=heatmap" width="400" />
+<img src="https://leetcard.jacoblin.cool/Ojaswa072?theme=dark&font=Open%20Sans&ext=heatmap" width="420" />
 
 </div>
 
-##### 📫 Let's talk
+### 📫 Let's talk
 
-<sub>Open to **Backend Engineer · AI Security Engineer · Python Developer · Software Engineer** roles.</sub><br>
-<sub>📧 [ojaswa717@gmail.com](mailto:ojaswa717@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ojaswa07)</sub>
+Open to **Backend Engineer · AI Security Engineer · Python Developer · Software Engineer** roles.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%" />
+📧 [ojaswa717@gmail.com](mailto:ojaswa717@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ojaswa07)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" width="100%" />
