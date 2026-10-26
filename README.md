@@ -91,4 +91,20 @@ Open to **Backend Engineer · AI Security Engineer · Python Developer · Softwa
 
 📧 [ojaswa717@gmail.com](mailto:ojaswa717@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ojaswa07)
 
+<div align="center">
+
+### ☕ Support my work
+
+```bash
+$ sudo brew install coffee --for ojaswa
+==> Sponsor on GitHub: https://github.com/sponsors/ojaswa072
+```
+
+<a href="https://github.com/sponsors/ojaswa072">
+  <img src="https://img.shields.io/badge/Run_it-Sponsor_on_GitHub-1f6feb?style=for-the-badge&logo=gnubash&logoColor=white" alt="Sponsor" />
+</a>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" width="100%" />
+
