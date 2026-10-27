@@ -47,7 +47,7 @@ Built for open-source security teams. Redacts PII, summarizes reports, and flags
 
 | When | Role | Impact |
 |---|---|---|
-| Jun – Aug 2026 | **Ex-Software Engineering Intern**, OWASP BLT | Architected BLT-Toasty's serverless backend on Cloudflare Workers, cutting triage time by 30% with zero PII leakage. |
+| Jun – Aug 2026 | **Software Engineering Intern**, OWASP BLT | Architected BLT-Toasty's serverless backend on Cloudflare Workers, cutting triage time by 30% with zero PII leakage. |
 | Feb 2026 – Present | **Open-source Contributor**, OWASP BLT | 25+ merged PRs refactoring Python microservices and hardening API security. |
 
 ### 🧰 Stack
